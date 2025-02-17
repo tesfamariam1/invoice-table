@@ -11,3 +11,10 @@ This assignment application is hosted on [Invoice Dashboard](http://invoice-tabl
 - Run php artisan key:generate
 - Setup your local database configuration
 - Run php artisan migrate & php artisan db:seed
+
+For live link you can use 
+Email: admin@gmail.com
+
+Password: password
+
+or you can create new
